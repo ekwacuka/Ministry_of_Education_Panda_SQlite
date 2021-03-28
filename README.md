@@ -1,4 +1,4 @@
-## Pandas - Ministry of Education Assignment
+## Ministry of Education - Pandas Assignment 
 
 Utilize Pandas to ingest Ministry of Education CSV datafile and load the data into a DataFrame
     
