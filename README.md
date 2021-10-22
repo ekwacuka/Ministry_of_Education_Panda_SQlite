@@ -1,4 +1,4 @@
-# Ministry of Education - Pandas - SQLite Assignment 
+# Ministry of Education - Pandas - SQLite 
 
 ### Utilize Pandas to ingest Ministry of Education CSV data file and load the data into a DataFrame
     
